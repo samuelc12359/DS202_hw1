@@ -1,0 +1,20 @@
+---
+title: "hw1.rmd"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## SamuelCole; samuelc12359
+
+#What do you consider data science to be?
+
+Data science, to me, is taking a large amount of data, that has **no face value**, and pulling information useful to people out of it. Data science can be used in every company, engineering, marketing, and anything that has data.
+ <https://datajobs.com/big-data-images/data-science-diagram-2.jpg>.
+
+```{r}
+version
+```
+github username: **samuelc12359**
