@@ -1,0 +1,21 @@
+---
+title: "partner"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Alicia Hauglie
+ahauglie
+
+Most recent commit:
+commit ff8bc0bf32f08a3dc6c05b5c5bfe23ca046303cf
+DS202_hw1
+
+Yes can commit it without error
+
+Tip: Make sure you know how to push and pull files
+
+
